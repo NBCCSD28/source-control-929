@@ -3,3 +3,7 @@ DESIGN TEAM
 Sara Lopez
 	Role: UI Designer
 	Email: sara@example.com
+
+Sean McDonald
+	Role: UX Designer
+	Email: sean@onmicrosoft.com
