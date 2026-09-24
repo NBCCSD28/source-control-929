@@ -1,0 +1,10 @@
+DEVELOPERS 
+
+Priya Nair
+	Role: Front-end Developer
+	Email: priya@example.com
+
+Sean McGregor
+	Role: C# lover
+	Email: sean@microsoft.comhi 
+ECHO is on.
